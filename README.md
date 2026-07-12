@@ -1,8 +1,9 @@
-# 四年級數學課例研究：變化的方式
+﻿# 四年級數學課例研究：變化的方式
 
-這個 repository 用於部署 HTML 簡報。
+這個 GitHub Pages 專案部署最後版 HTML 簡報。
 
-- `index.html`：可直接瀏覽的 HTML 簡報
-- `notebooklm_lesson_study_illustrated_pdf_3editable_revised_illustrations.pptx`：可編輯 PowerPoint 簡報
+- 線上簡報：https://hsuyiping-rgb.github.io/slc-kanayama-lesson-study/
+- HTML 檔：notebooklm_lesson_study_illustrated_pdf_3editable_safe_people_integrated.html
+- PPTX 檔：notebooklm_lesson_study_illustrated_pdf_3editable_safe_people.pptx
 
-簡報主題：以 NotebookLM「學習共同體：課例研究與觀議課實務指南」為理論框架，分析金山老師四年級數學課「變化的方式」，聚焦學生如何透過同儕討論、圖形證據與折線圖判讀形成數學理解。
+本版重點：重繪學生學習插圖，放入簡報時採完整容納方式，避免人物被裁切；保留上一頁、下一頁播放控制。
